@@ -1,0 +1,101 @@
+body{
+    background: #8694a4;
+}
+.header{
+    width: 1265px;
+    height: 162px;
+    margin-top: -10px;
+    margin-left: -10px;
+    background: antiquewhite;
+}
+.photo{
+    margin-left: 80px;
+    margin-top: 124px;
+}
+.text1{
+    margin-left: 78px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    }
+.info{
+    width: 350px;
+    height: 140px;
+    background: white;
+    margin-left: 450px;
+    margin-top: -250px;
+}
+.infotext{
+    margin-left: 455px;
+    margin-top: -150px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: light;
+}
+.coceti{
+    margin-left: 78px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    color: black;
+    margin-top: -450px;
+}
+.vk{
+    margin-left: 400px;
+    margin-top: -70px;
+}
+.galer{
+    width: 1265px;
+    height: 1080px;
+    margin-top: 500px;
+    margin-left: -10px;
+    background: lightblue;
+}
+.hgal{
+    width: 1265px;
+    height: 100px;
+    background: ;
+    margin-top: -1100px;
+    margin-left: -10px;
+    background: antiquewhite;
+}
+.textgal{
+    margin-left: 78px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    color: black;
+    margin-top: -100px;
+    margin-left: 500px;
+}
+}
+.Yandex{
+    position: fixed;
+    margin-left: 40px;
+}
+
+.Yandex{
+    margin-top: -80px;
+    margin-left: 450px;
+}
+
+.logo{
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: -80px;
+}
+.photof{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 25px;
+}
+.photot{
+    position: absolute;
+    margin-top: 425px;
+    margin-left: 25px;
+}
+.photovri{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 450px;
+}
